@@ -1,0 +1,12 @@
+{
+  "name": "typescript-definition-tests",
+  "version": "1.0.0",
+  "description": "An examination of Typescript and the definition files it emits.",
+  "main": "index.js",
+  "scripts": {
+    "start": "rm -rf compiled/* && tsc"
+  },
+  "keywords": [],
+  "author": "wvbe",
+  "license": "ISC"
+}

@@ -1,0 +1,1 @@
+An examination of Typescript and the definition files it emits.
